@@ -1,0 +1,165 @@
+[
+    {
+        "id": "08d3-52dc",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "AUTO",
+            "CASCADE",
+            "DEFAULT"
+        ]
+    },
+    {
+        "id": "822d-5d15",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "CASCADE"
+        ]
+    },
+    {
+        "id": "52f6-0e41",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "AUTO"
+        ]
+    },
+    {
+        "id": "92b4-5655",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "CASCADE",
+            "DEFAULT"
+        ]
+    },
+    {
+        "id": "b1ab-3b57",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "DEFAULT",
+            "AUTO"
+        ]
+    },
+    {
+        "id": "b064-0b24",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "CASCADE",
+            "AUTO",
+            "DEFAULT"
+        ]
+    },
+    {
+        "id": "59f5-f331",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "DEFAULT",
+            "CASCADE",
+            "AUTO"
+        ]
+    },
+    {
+        "id": "88ad-9da5",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "DEFAULT",
+            "AUTO",
+            "CASCADE"
+        ]
+    },
+    {
+        "id": "66f6-11bb",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "AUTO",
+            "CASCADE"
+        ]
+    },
+    {
+        "id": "18a9-b552",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "CASCADE",
+            "AUTO"
+        ]
+    },
+    {
+        "id": "94d7-0cff",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "AUTO",
+            "CASCADE",
+            "DEFAULT"
+        ]
+    },
+    {
+        "id": "6a6b-57b2",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "CASCADE",
+            "DEFAULT"
+        ]
+    },
+    {
+        "id": "0c17-3a91",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "CASCADE",
+            "AUTO"
+        ]
+    },
+    {
+        "id": "4f43-f981",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "CASCADE",
+            "DEFAULT",
+            "AUTO"
+        ]
+    },
+    {
+        "id": "a340-2690",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "DEFAULT",
+            "CASCADE"
+        ]
+    },
+    {
+        "id": "47fc-25a7",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "DEFAULT",
+            "CASCADE"
+        ]
+    },
+    {
+        "id": "7893-50a8",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "DEFAULT"
+        ]
+    },
+    {
+        "id": "9f1a-cb06",
+        "auditProof": false,
+        "allowedDeleteModes": [
+            "AUTO",
+            "CASCADE"
+        ]
+    },
+    {
+        "id": "3420-7101",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "DEFAULT",
+            "CASCADE",
+            "AUTO"
+        ]
+    },
+    {
+        "id": "c59e-0d0a",
+        "auditProof": true,
+        "allowedDeleteModes": [
+            "DEFAULT"
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Chief Technology Officer",
+        "id": 1
+    },
+    {
+        "name": "Surveyor, quantity",
+        "id": 2
+    },
+    {
+        "name": "Licensed conveyancer",
+        "id": 3
+    },
+    {
+        "name": "Geoscientist",
+        "id": 4
+    },
+    {
+        "name": "Lobbyist",
+        "id": 5
+    },
+    {
+        "name": "Environmental consultant",
+        "id": 6
+    },
+    {
+        "name": "Data processing manager",
+        "id": 7
+    },
+    {
+        "name": "Aid worker",
+        "id": 8
+    },
+    {
+        "name": "Dealer",
+        "id": 9
+    },
+    {
+        "name": "Social research officer, government",
+        "id": 10
+    },
+    {
+        "name": "Librarian, public",
+        "id": 11
+    },
+    {
+        "name": "Exhibition designer",
+        "id": 12
+    },
+    {
+        "name": "Surveyor, hydrographic",
+        "id": 13
+    },
+    {
+        "name": "Engineer, land",
+        "id": 14
+    },
+    {
+        "name": "Water engineer",
+        "id": 15
+    },
+    {
+        "name": "Insurance claims handler",
+        "id": 16
+    },
+    {
+        "name": "Housing manager/officer",
+        "id": 17
+    },
+    {
+        "name": "Agricultural engineer",
+        "id": 18
+    },
+    {
+        "name": "Risk manager",
+        "id": 19
+    },
+    {
+        "name": "IT sales professional",
+        "id": 20
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "firstName": "Kimberly",
+        "lastName": "Taylor",
+        "technicalUser": true,
+        "active": true,
+        "userName": "kimberly_taylor",
+        "email": "kimberly_taylor@gmail.com",
+        "id": 1,
+        "roles": [
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Gregory",
+        "lastName": "Craig",
+        "technicalUser": true,
+        "active": false,
+        "userName": "gregory_craig",
+        "email": "gregory_craig@gmail.com",
+        "id": 2,
+        "roles": [
+            "SUPER_USER",
+            "USER"
+        ]
+    },
+    {
+        "firstName": "Taylor",
+        "lastName": "Thomas",
+        "technicalUser": false,
+        "active": false,
+        "userName": "taylor_thomas",
+        "email": "taylor_thomas@gmail.com",
+        "id": 3,
+        "roles": [
+            "USER"
+        ]
+    },
+    {
+        "firstName": "Sandra",
+        "lastName": "Jordan",
+        "technicalUser": true,
+        "active": true,
+        "userName": "sandra_jordan",
+        "email": "sandra_jordan@gmail.com",
+        "id": 4,
+        "roles": [
+            "SUPER_USER",
+            "USER",
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Christina",
+        "lastName": "Erickson",
+        "technicalUser": false,
+        "active": false,
+        "userName": "christina_erickson",
+        "email": "christina_erickson@gmail.com",
+        "id": 5,
+        "roles": [
+            "USER"
+        ]
+    },
+    {
+        "firstName": "Christopher",
+        "lastName": "Miller",
+        "technicalUser": false,
+        "active": false,
+        "userName": "christopher_miller",
+        "email": "christopher_miller@gmail.com",
+        "id": 6,
+        "roles": [
+            "ADMIN",
+            "SUPER_USER"
+        ]
+    },
+    {
+        "firstName": "Jonathan",
+        "lastName": "Fitzpatrick",
+        "technicalUser": true,
+        "active": false,
+        "userName": "jonathan_fitzpatrick",
+        "email": "jonathan_fitzpatrick@gmail.com",
+        "id": 7,
+        "roles": [
+            "SUPER_USER"
+        ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Livingston",
+        "technicalUser": false,
+        "active": false,
+        "userName": "james_livingston",
+        "email": "james_livingston@gmail.com",
+        "id": 8,
+        "roles": [
+            "ADMIN",
+            "SUPER_USER"
+        ]
+    },
+    {
+        "firstName": "Justin",
+        "lastName": "Serrano",
+        "technicalUser": true,
+        "active": true,
+        "userName": "justin_serrano",
+        "email": "justin_serrano@gmail.com",
+        "id": 9,
+        "roles": [
+            "SUPER_USER"
+        ]
+    },
+    {
+        "firstName": "Lisa",
+        "lastName": "Rice",
+        "technicalUser": false,
+        "active": false,
+        "userName": "lisa_rice",
+        "email": "lisa_rice@gmail.com",
+        "id": 10,
+        "roles": [
+            "ADMIN",
+            "USER"
+        ]
+    },
+    {
+        "firstName": "Lisa",
+        "lastName": "Dixon",
+        "technicalUser": true,
+        "active": false,
+        "userName": "lisa_dixon",
+        "email": "lisa_dixon@gmail.com",
+        "id": 11,
+        "roles": [
+            "SUPER_USER",
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Wanda",
+        "lastName": "Hill",
+        "technicalUser": true,
+        "active": false,
+        "userName": "wanda_hill",
+        "email": "wanda_hill@gmail.com",
+        "id": 12,
+        "roles": [
+            "SUPER_USER",
+            "USER"
+        ]
+    },
+    {
+        "firstName": "Jessica",
+        "lastName": "Scott",
+        "technicalUser": true,
+        "active": true,
+        "userName": "jessica_scott",
+        "email": "jessica_scott@gmail.com",
+        "id": 13,
+        "roles": [
+            "SUPER_USER",
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Laura",
+        "lastName": "Bell",
+        "technicalUser": false,
+        "active": true,
+        "userName": "laura_bell",
+        "email": "laura_bell@gmail.com",
+        "id": 14,
+        "roles": [
+            "USER",
+            "ADMIN",
+            "SUPER_USER"
+        ]
+    },
+    {
+        "firstName": "Joseph",
+        "lastName": "Cox",
+        "technicalUser": false,
+        "active": false,
+        "userName": "joseph_cox",
+        "email": "joseph_cox@gmail.com",
+        "id": 15,
+        "roles": [
+            "SUPER_USER",
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Susan",
+        "lastName": "Collins",
+        "technicalUser": true,
+        "active": false,
+        "userName": "susan_collins",
+        "email": "susan_collins@gmail.com",
+        "id": 16,
+        "roles": [
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Bryan",
+        "lastName": "Grant",
+        "technicalUser": true,
+        "active": true,
+        "userName": "bryan_grant",
+        "email": "bryan_grant@gmail.com",
+        "id": 17,
+        "roles": [
+            "SUPER_USER"
+        ]
+    },
+    {
+        "firstName": "Felicia",
+        "lastName": "Johnson",
+        "technicalUser": true,
+        "active": false,
+        "userName": "felicia_johnson",
+        "email": "felicia_johnson@gmail.com",
+        "id": 18,
+        "roles": [
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Brandon",
+        "lastName": "Johns",
+        "technicalUser": true,
+        "active": false,
+        "userName": "brandon_johns",
+        "email": "brandon_johns@gmail.com",
+        "id": 19,
+        "roles": [
+            "USER",
+            "SUPER_USER",
+            "ADMIN"
+        ]
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Garcia",
+        "technicalUser": true,
+        "active": false,
+        "userName": "michael_garcia",
+        "email": "michael_garcia@gmail.com",
+        "id": 20,
+        "roles": [
+            "ADMIN",
+            "USER"
+        ]
+    }
+]
